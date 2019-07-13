@@ -1,2 +1,2 @@
-# omnifood
+#food
 Food delivery website 
